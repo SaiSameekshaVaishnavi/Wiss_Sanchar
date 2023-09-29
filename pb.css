@@ -166,7 +166,7 @@ html,body {
 /*css for testimonials*/
 .testimonials{
     perspective: 900px;
-     height: 75vh;
+     height: 48vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
