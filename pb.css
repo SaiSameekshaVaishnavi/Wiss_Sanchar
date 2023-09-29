@@ -166,6 +166,7 @@ html,body {
 /*css for testimonials*/
 #test{
     perspective: 900px;
+     height: 75vh;
 }
 .testimonials{
     display: flex;
