@@ -475,7 +475,10 @@ a {
     background-color: #3B5998;
   }
   .share a:nth-child(3):hover {
-    background-color: linear-gradient(45deg, #405DE6, #833AB4, #FF006E, #F7D14E);
+     background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
   }
   .share a:nth-child(4) {
     border-top-right-radius: 40px;
