@@ -166,7 +166,7 @@ html,body {
 /*css for testimonials*/
 .testimonials{
     perspective: 900px;
-     height: 48vh;
+     height:48vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -426,7 +426,7 @@ a {
   }
 .share {
     position: relative;
-    width: 440px;
+    width:440px;
     left: 50%;
     margin-left: -200px;
     top: 50%;
